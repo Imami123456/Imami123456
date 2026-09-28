@@ -1,16 +1,61 @@
 ## Hi there 👋
 
-<!--
-**Imami123456/Imami123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Burhanuddin 👋
 
-Here are some ideas to get you started:
+### MSc Computer Science Student | Software Development | AI & Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MSc Computer Science student at the **University of Passau**, interested in building practical software systems and exploring **AI, machine learning, data visualization, and software engineering**.
+
+I enjoy turning ideas into working projects and continuously improving my engineering skills through hands-on development.
+
+### 🔧 Technologies
+
+**Languages**
+
+* Python
+* JavaScript / TypeScript
+* Java
+* C / C++
+* SQL
+
+**AI & Data**
+
+* Machine Learning
+* Deep Learning
+* LLMs & AI Agents
+* Data Analysis
+* Data Visualization
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Linux
+* Docker
+* D3.js
+* React
+* REST APIs
+* MCP
+
+### 🚀 Featured Projects
+
+🔹 **Cortex Agent Runtime**
+A Python-based agent runtime exploring ReAct agents, persistent memory, MCP integration, and observability.
+
+🔹 **ScrapLens Dashboard**
+An interactive data visualization project using JavaScript and D3.js with coordinated visual analytics and clustering.
+
+🔹 **Baumpflege Passau**
+A TypeScript-based web project developed as a practical software application.
+
+### 🎓 Education
+
+**MSc Computer Science** — University of Passau, Germany
+2025–Present
+
+**B.Tech Information Technology** — Marwadi University, India
+2020–2024
+
+### 📫 Contact
+
+* 📧 Email: [imami01@ads.uni-passau.de](burhanuddinimami12@gmail.com)
+* 🌐 GitHub: [github.com/Imami123456](https://github.com/Imami123456)
