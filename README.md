@@ -10,9 +10,10 @@ I enjoy turning ideas into working projects and continuously improving my engine
 
 ### 🔧 Tech Stack
 
-**Python** · **JavaScript** · **TypeScript** · **Java** · **C/C++** · **SQL**  
-**AI/ML** · **LLMs & AI Agents** · **Data Analysis** · **Data Visualization**  
-**Git** · **GitHub** · **Linux** · **Docker** · **D3.js** · **React** · **REST APIs** · **MCP**
+**Programming:** Python · JavaScript · TypeScript · Java · C/C++ · SQL  
+**Web:** HTML · CSS · React · REST APIs  
+**AI & Data:** Machine Learning · Deep Learning · LLMs & AI Agents · Data Analysis · Data Visualization  
+**Tools:** Git · GitHub · Linux · Docker · D3.js · MCP
 
 ### 🚀 Featured Projects
 
