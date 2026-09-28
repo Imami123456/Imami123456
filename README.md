@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-                    # Hi, I'm Burhanuddin 👋
+ # Hi, I'm Burhanuddin 👋
 
 ### MSc Computer Science Student | Software Development | AI & Data
 
@@ -8,33 +8,11 @@ I'm an MSc Computer Science student at the **University of Passau**, interested 
 
 I enjoy turning ideas into working projects and continuously improving my engineering skills through hands-on development.
 
-### 🔧 Technologies
+### 🔧 Tech Stack
 
-**Languages**
-
-* Python
-* JavaScript / TypeScript
-* Java
-* C / C++
-* SQL
-
-**AI & Data**
-
-* Machine Learning
-* Deep Learning
-* LLMs & AI Agents
-* Data Analysis
-* Data Visualization
-
-**Tools & Technologies**
-
-* Git & GitHub
-* Linux
-* Docker
-* D3.js
-* React
-* REST APIs
-* MCP
+**Python** · **JavaScript** · **TypeScript** · **Java** · **C/C++** · **SQL**  
+**AI/ML** · **LLMs & AI Agents** · **Data Analysis** · **Data Visualization**  
+**Git** · **GitHub** · **Linux** · **Docker** · **D3.js** · **React** · **REST APIs** · **MCP**
 
 ### 🚀 Featured Projects
 
